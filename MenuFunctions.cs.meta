@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8109005c99e2140d391f6022c0ec1768
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - actorObject: {fileID: 1953624966597844, guid: d6f93c619ac63a648b10bd76d31922e2,
+      type: 3}
+  - pinkActorObject: {fileID: 1478700504187208, guid: c84f7b255fee11a4f93c1c6b46cc712e,
+      type: 3}
+  - propObject: {fileID: 6547088970927547504, guid: cfe17e9733b3842c78801c8cfcec897a,
+      type: 3}
+  - teleportBttn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
